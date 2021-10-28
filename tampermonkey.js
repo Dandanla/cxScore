@@ -15,11 +15,6 @@
 // ==/UserScript==
 
 var conf = {
-	title: "MOOC助手",
-	time: 100, //平均时间
-	learn: 1, //自动答题
-	auto: 1, //自动提交
-	random: 0, //无匹配答案随机选择
     doTimeOut:5000,
 };
 
